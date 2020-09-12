@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a artificial intelligence researcher and mathematician.
+![Programming Gif](gifs/programmer1.gif)
 
-Technologies I work with: C, C++, Python, NumPy, PyTorch, TensorFlow, Google JAX, YOLOv3
+I'm an artificial intelligence researcher and a mathematician.
 
-My interests are listed below:
+Technologies I work with: C, C++, Python, NumPy, PyTorch, TensorFlow, Google JAX, YOLOv3 and more...
+
+My interests are:
 
 - Artificial Intelligence and Reinforcement Learning
 
@@ -12,25 +14,29 @@ My interests are listed below:
 
 - Game Development
 
-- Cryptography 
+- Cryptography
 
-  <br/>
+  
 
-[![twitter badge](https://img.shields.io/badge/twitter-@cyb3r_art-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/cyb3r_art)<br/>[![dev.to badge](https://img.shields.io/badge/linkedin-cyber_art-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/uguryagmur/)<br/>![Profile View Badge](https://komarev.com/ghpvc/?username=cyber-art&color=red&style=flat)<br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyber-art&theme=dracula&show_icons=True)](https://github.com/cyber-art/github-readme-stats)
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyber-art&theme=dark)](https://github.com/cyber-art/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-art&theme=dark&layout=compact)](https://github.com/cyber-art/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-art&theme=dracula&layout=compact)](https://github.com/cyber-art/github-readme-stats)
 
 
 
 🔭 I’m currently working on
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyber-art&repo=RealTimeObjectDetection&theme=dark)](https://github.com/cyber-art/RealTimeObjectDetection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyber-art&repo=RealTimeObjectDetection&theme=dracula)](https://github.com/cyber-art/RealTimeObjectDetection)
 
 
+
+<br/>
+
+[![twitter badge](https://img.shields.io/badge/twitter-@cyb3r_art-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/cyb3r_art)<br/>[![dev.to badge](https://img.shields.io/badge/linkedin-cyber_art-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/uguryagmur/)<br/>![Profile View Badge](https://komarev.com/ghpvc/?username=cyber-art&color=red&style=flat)<br/>
+
+
+
+![Programming Gif](gifs/programmer2.gif)
 
 #### 
 
