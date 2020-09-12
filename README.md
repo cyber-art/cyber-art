@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Programming Gif](gifs/programmer1.gif)
-
 I'm an artificial intelligence researcher and a mathematician.
 
 Technologies I work with: C, C++, Python, NumPy, PyTorch, TensorFlow, Google JAX, YOLOv3 and more...
@@ -28,19 +26,11 @@ My interests are:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyber-art&repo=RealTimeObjectDetection&theme=dracula)](https://github.com/cyber-art/RealTimeObjectDetection)
 
-
-
 <br/>
 
 [![twitter badge](https://img.shields.io/badge/twitter-@cyb3r_art-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/cyb3r_art)<br/>[![dev.to badge](https://img.shields.io/badge/linkedin-cyber_art-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/uguryagmur/)<br/>![Profile View Badge](https://komarev.com/ghpvc/?username=cyber-art&color=red&style=flat)<br/>
 
-
-
-![Programming Gif](gifs/programmer2.gif)
-
-#### 
-
-### 
+![Programming Gif](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)
 
 <!--
 **cyber-art/cyber-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
